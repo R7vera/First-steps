@@ -1,4 +1,4 @@
-<img src="https://www.fundaciontelefonica.com.ar/wp-content/uploads/2021/05/Introduccion-a-la-programacion-Abril-2560x950-1.jpg"/> 
+<img src="https://talently.tech/blog/wp-content/uploads/2022/02/%C2%BFQue-es-un-framework-en-programacion-scaled.jpg"/> 
 
 
 
