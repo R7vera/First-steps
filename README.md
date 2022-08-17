@@ -12,4 +12,4 @@
 - 🗂 Dialects: ISO/IEC C++ 1998, ISO/IEC C++ 2003, ISO/IEC C++ 2011
 - 🗂 Implementations: C++ Builder, clang, Comeau C/C++, GCC, Intel C++ Compiler, Microsoft Visual C++
 
-<img src="https://2.bp.blogspot.com/-DrHDBZWMWC0/WyLLvXElCpI/AAAAAAAAACg/BpyMuVGLcaQJ3ur3HgsVqcgZ_di2-Qb1QCLcBGAs/s1600/c-plus-plus-logo.png" height="42" width="42" alt="photoshop logo" /> 
+<img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white">
